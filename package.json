@@ -1,0 +1,11 @@
+{
+  "name": "ricaangelshearts",
+  "version": "1.0.0",
+  "description": "Rica gardienne de la Angels Hearts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xAnswerrer",
+  "license": "ISC"
+}
